@@ -1,0 +1,31 @@
+#fred{
+  font-size: 45px;
+}
+
+input{
+  border: solid 5px #ff33cc;
+  height: 65px;
+  width: 65px;
+  background-color: #cc99ff;
+  font-size: 20px;
+}
+
+input:hover{
+  height:60px;
+  width:60px;
+  border: dashed 3px #b30086;
+  background-color: #e6ccff;
+}
+
+#void{
+  width: 125px;
+}
+
+body{
+  background-color: #f3e6ff;
+}
+
+p{
+  border-top: dashed 4px black;
+  font-size: 3opx;
+}
